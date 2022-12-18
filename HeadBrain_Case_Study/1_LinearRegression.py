@@ -67,7 +67,7 @@ def MarvellousPredictor():
     print("Goodness of fit using R2 method is",r2)
 
 def main():
-    print("----------HeadBrain CaseStudy by Swapnil Patil----------")
+    print("----------ML CaseStudy by Swapnil Patil----------")
 
     print("--------------Supervised Machine Learning---------------")
 
