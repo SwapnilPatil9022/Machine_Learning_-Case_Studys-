@@ -1,0 +1,4 @@
+
+ Code : This Automation script is accept the .xlsx file dataframe and encoding the data and dispay and store 
+        the scatterplot daigram using matplotlib. 
+        This daigram is send perodiclly using sheduler through the mail.
